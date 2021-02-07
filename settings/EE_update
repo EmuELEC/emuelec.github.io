@@ -1,3 +1,2 @@
-3.5 [*] %Amlogic-ng% [*] https://github.com/EmuELEC/EmuELEC/releases/download/v3.5/EmuELEC-Amlogic-ng.arm-3.5.tar
-3.5 [*] %Amlogic% [*] https://github.com/EmuELEC/EmuELEC/releases/download/v3.5/EmuELEC-Amlogic.arm-3.5.tar
-3.5 [*] %OdroidGoAdvance% [*] https://github.com/EmuELEC/EmuELEC/releases/download/v3.5/EmuELEC-OdroidGoAdvance.arm-3.5-odroidgo2.tar
+3.9;stable
+4.0-TEST-02022021;beta
